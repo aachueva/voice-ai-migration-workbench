@@ -6,6 +6,12 @@ The core operational question is: **how do you compare an incumbent and candidat
 
 > **Portfolio note:** All scenarios, company names, terminology, transcripts, metrics, and evaluation data in this repository are fictional or synthetic. This repository does not contain customer data, proprietary implementation details, or hiring-assessment materials.
 
+## Product preview
+
+![Migration Control Center](VoiceAI_dash.png)
+
+*Migration Control Center showing provider-neutral transcription evaluation, business-critical terminology validation, comparison metrics, and rollout-readiness signals.*
+
 ## What this project demonstrates
 
 - Provider-neutral speech-to-text evaluation

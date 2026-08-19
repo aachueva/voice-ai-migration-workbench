@@ -1,0 +1,20 @@
+[
+  {
+    "case_id": "support-routing",
+    "reference": "Please route ticket ZX-204 to the identity access team for SAML configuration.",
+    "hypothesis": "Please route ticket ZX-204 to the identity access team for SAML configuration.",
+    "critical_terms": ["ZX-204", "SAML", "identity access"]
+  },
+  {
+    "case_id": "renewal-request",
+    "reference": "The customer requested a renewal review for workspace Q7 before October 15.",
+    "hypothesis": "The customer requested a renewal review for workspace Q7 before October 15.",
+    "critical_terms": ["workspace Q7", "October 15", "renewal"]
+  },
+  {
+    "case_id": "incident-escalation",
+    "reference": "Escalate incident INC-731 because the private network connection is unavailable.",
+    "hypothesis": "Escalate incident INC-731 because the private network connection is unavailable.",
+    "critical_terms": ["INC-731", "private network", "escalate"]
+  }
+]
